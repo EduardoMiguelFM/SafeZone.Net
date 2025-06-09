@@ -124,8 +124,8 @@ http://localhost:5005/swagger
 
 | Tipo           | Link                |
 |----------------|---------------------|
-| 🎬 Demonstração da Solução | _(Inserir link do YouTube)_ |
-| 🗣️ Pitch (até 3 minutos)     | _(Inserir link do YouTube)_ |
+| 🎬 Demonstração da Solução | [_(Demonstrando APlicação)_](https://youtu.be/jFmV7y-p6XA) |
+| 🗣️ Pitch (até 3 minutos)     | [_(Pitch)_](https://youtu.be/s8PfVH_Bmac) |
 
 ---
 
